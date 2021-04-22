@@ -40,7 +40,10 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 + API - wikipedia = https://pt.wikipedia.org/w/api.php
 + API - npm = https://registry.npmjs.com/<nome_package>
 + API - imgur = https://api.imgur.com/3/
++ API - icons = https://img.icons8.com
++ API - Some Random Api = https://some-random-api.ml - https://some-random-api.ml/docs/welcome/introduction
 
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
+- NPM - https://www.npmjs.com/package/awesome-qr
 ```
