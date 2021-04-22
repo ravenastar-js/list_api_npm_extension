@@ -45,5 +45,5 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
-- NPM - https://www.npmjs.com/package/awesome-qr
+- NPM - gerador qr code = https://www.npmjs.com/package/awesome-qr
 ```
