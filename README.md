@@ -55,5 +55,6 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 - NPM - A speed test powered by fast.com = https://www.npmjs.com/package/fast-speedtest-api
 - NPM - A light weight native JavaScript implementation of GeoIP API from MaxMind = https://www.npmjs.com/package/geoip-lite
 - NPM - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
+- NPM - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
 
 ```
