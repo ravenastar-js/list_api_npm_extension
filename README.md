@@ -26,6 +26,7 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 + API - API`s Gratuitas = https://docs.awesomeapi.com.br
 + API - Responde com imagem de um gato referente a um código de erro. - https://http.cat/
 + API - API`s Gratuitas/Pagas = https://www.ipqualityscore.com
++ API - API`s Gratuitas/Pagas = https://www.abstractapi.com/ip-geolocation-api
 + API - Free IP Geolocation API = https://ipstack.com
 + API - lista para bloquear = https://blocklistproject.github.io/Lists/
 + API - Free IP Geolocation API = https://ipinfo.io
@@ -46,4 +47,11 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
 - NPM - gerador qr code = https://www.npmjs.com/package/awesome-qr
+- NPM - Spam Scanner = https://www.npmjs.com/package/spamscanner
+- NPM - Fast and low overhead web framework, for Node.js = https://www.npmjs.com/package/fastify - https://www.fastify.io/benchmarks/
+- NPM - API for GeoIP2 webservice client and database reader = https://www.npmjs.com/package/@maxmind/geoip2-node
+- NPM - A speed test powered by fast.com = https://www.npmjs.com/package/fast-speedtest-api
+- NPM - A light weight native JavaScript implementation of GeoIP API from MaxMind = https://www.npmjs.com/package/geoip-lite
+- NPM - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
+
 ```
