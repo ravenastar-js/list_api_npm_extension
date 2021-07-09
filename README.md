@@ -27,6 +27,7 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 + API - Responde com imagem de um gato referente a um código de erro. - https://http.cat/
 + API - API`s Gratuitas/Pagas = https://www.ipqualityscore.com
 + API - API`s Gratuitas/Pagas = https://www.abstractapi.com/ip-geolocation-api
++ API - Shodan is the world's first search engine for Internet-connected devices. = https://developer.shodan.io/api
 + API - Free IP Geolocation API = https://ipstack.com
 + API - lista para bloquear = https://blocklistproject.github.io/Lists/
 + API - Free IP Geolocation API = https://ipinfo.io
