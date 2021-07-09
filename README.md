@@ -44,6 +44,7 @@ list of API and NPM that I use most. / lista de API e NPM que mais uso.
 + API - imgur = https://api.imgur.com/3/
 + API - icons = https://img.icons8.com
 + API - Some Random Api = https://some-random-api.ml - https://some-random-api.ml/docs/welcome/introduction
++ API - A simple and easy to use AlexFlipnote API Wrapper = https://api.alexflipnote.dev - https://github.com/HarutoHiroki/alexflipnote.js
 
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
