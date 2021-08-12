@@ -80,4 +80,8 @@
 # UTILITIES - https://cybernews.com/personal-data-leak-check/
 # UTILITIES - https://haveibeenpwned.com/
 # UTILITIES - https://blog.discord.com/tagged/policy
+# UTILITIES - https://www.youtube.com/c/baboocombr
+# UTILITIES - https://www.youtube.com/c/GabrielPato
+# UTILITIES - https://www.youtube.com/c/MWInformática
+
 ```
