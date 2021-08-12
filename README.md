@@ -68,4 +68,16 @@
 ! EXTENSION - https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
 ! EXTENSION - https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
 ! EXTENSION - https://addons.opera.com/pt-br/extensions/details/what-is-my-ip-address/
+
+# UTILITIES - https://choosealicense.com/licenses/
+# UTILITIES - http://constletvar.com/
+# UTILITIES - https://talosintelligence.com/
+# UTILITIES - https://www.virustotal.com
+# UTILITIES - https://phishtank.com/phish_search.php?valid=y&active=y&Search=Search
+# UTILITIES - https://yandex.com
+# UTILITIES - https://youtu.be/GkunWTgUJ44 ( Fraud Day 2020 | Fábio Assolini (Kaspersky): Caçada pró-ativa às ciberameaças do e-commerce )
+# UTILITIES - https://discord.com/safety/360044104071-Tips-against-spam-and-hacking
+# UTILITIES - https://cybernews.com/personal-data-leak-check/
+# UTILITIES - https://haveibeenpwned.com/
+# UTILITIES - https://blog.discord.com/tagged/policy
 ```
