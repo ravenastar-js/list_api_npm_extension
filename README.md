@@ -5,6 +5,7 @@
 + API
 - NPM
 ! extension
+# utilities
 
 + API - Arte gerada por IA = https://thisartworkdoesnotexist.com/
 + API - Gato gerado por IA = https://thiscatdoesnotexist.com/
