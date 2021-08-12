@@ -1,4 +1,4 @@
-# list of NPM, API and EXTENSION / lista de NPM, API e EXTENSÃO
+# list of NPM, API and EXTENSION
 <img src="https://img.icons8.com/windows/32/000000/npm.png"/> <img src="https://img.icons8.com/ios-glyphs/32/000000/api.png"/> <img src="https://img.icons8.com/ios-glyphs/32/000000/puzzle.png"/>
 
 ```diff
