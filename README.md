@@ -6,6 +6,7 @@ list of API, NPM and EXTENSION that I use most. / lista de API, NPM e extensão 
 ```diff
 + API
 - NPM
+! extension
 
 + API - Arte gerada por IA = https://thisartworkdoesnotexist.com/
 + API - Gato gerado por IA = https://thiscatdoesnotexist.com/
