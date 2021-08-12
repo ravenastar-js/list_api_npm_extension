@@ -1,7 +1,8 @@
 # lista de API, NPM e EXTENSION
 <img src="https://img.icons8.com/windows/32/000000/npm.png"/> <img src="https://img.icons8.com/ios-glyphs/32/000000/api.png"/> <img src="https://img.icons8.com/ios-glyphs/32/000000/puzzle.png"/>
 
-list of API and NPM that I use most. / lista de API e NPM que mais uso.
+list of API, NPM and EXTENSION that I use most. / lista de API, NPM e extensão que mais uso.
+
 ```diff
 + API
 - NPM
