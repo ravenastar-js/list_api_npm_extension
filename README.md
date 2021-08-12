@@ -59,4 +59,14 @@ list of API, NPM and EXTENSION that I use most. / lista de API, NPM e extensão 
 - NPM - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
 - NPM - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
 
+! EXTENSION - https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd
+! EXTENSION - https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt
+! EXTENSION - https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+! EXTENSION - https://addons.opera.com/pt-br/extensions/details/install-chrome-extensions/
+! EXTENSION - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR
+! EXTENSION - https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm
+! EXTENSION - https://chrome.google.com/webstore/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal?hl=pt
+! EXTENSION - https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
+! EXTENSION - https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
+! EXTENSION - https://addons.opera.com/pt-br/extensions/details/what-is-my-ip-address/
 ```
