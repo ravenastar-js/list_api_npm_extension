@@ -58,7 +58,7 @@
 - NPM - A light weight native JavaScript implementation of GeoIP API from MaxMind = https://www.npmjs.com/package/geoip-lite
 - NPM - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
 - NPM - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
-- NPM - Auxilixar nas atividades de registro de logs da CrystolNetwork. = https://npmjs.com/crystolnetwork-log
+- NPM - Auxilixar nas atividades de registro de logs em geral. = https://npmjs.com/crystolnetwork-log
 
 ! EXTENSION - https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd
 ! EXTENSION - https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt
