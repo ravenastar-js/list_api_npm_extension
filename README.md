@@ -85,6 +85,7 @@
 # UTILITIES - https://www.youtube.com/c/GabrielPato
 # UTILITIES - https://www.youtube.com/c/MWInformática
 # UTILITIES - https://discordtools.io/
+# UTILITIES - https://github.com/D09r/E-Books
 ```
 ## Créditos:
 ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a>
