@@ -70,6 +70,7 @@
 ! EXTENSION - https://chrome.google.com/webstore/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
 ! EXTENSION - https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
 ! EXTENSION - https://addons.opera.com/pt-br/extensions/details/what-is-my-ip-address/
+! EXTENSION - https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=pt-BR
 
 # UTILITIES - https://choosealicense.com/licenses/
 # UTILITIES - http://constletvar.com/
@@ -89,6 +90,21 @@
 # UTILITIES - https://github.com/D09r/E-Books
 # UTILITIES - https://www.youtube.com/c/PedroRicardoR
 # UTILITIES - https://panleyent.com/crosslink/
+# UTILITIES - https://github.com/qbittorrent/qBittorrent
+# UTILITIES - https://www.baboo.com.br/artigos/windows-linux-mitos-lendas/
+# UTILITIES - https://undraw.co/illustrations
+# UTILITIES - https://www.carbonblack.com
+# UTILITIES - https://www.darktrace.com/pt/
+# UTILITIES - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-check-code-reference2
+# UTILITIES - https://github.com/public-apis/public-apis/blob/master/README.md
+# UTILITIES - https://password.kaspersky.com
+# UTILITIES - https://www.photoshoponline.net.br/
+# UTILITIES - https://opentip.kaspersky.com
+# UTILITIES - https://metadefender.opswat.com/#!/scan-file
+# UTILITIES - https://howsecureismypassword.net
+# UTILITIES - https://www.baboo.com.br/artigos/chave-de-ativacao-windows10/
+# UTILITIES - https://solyd.com.br
+# UTILITIES - https://ide.goorm.io/
 ```
 ## Créditos:
 ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a> <a href="https://github.com/joaootavios"><img src="https://img.shields.io/badge/joaootavios-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/joaootavios"/></a>
