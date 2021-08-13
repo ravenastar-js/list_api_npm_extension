@@ -58,6 +58,7 @@
 - NPM - A light weight native JavaScript implementation of GeoIP API from MaxMind = https://www.npmjs.com/package/geoip-lite
 - NPM - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
 - NPM - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
+- NPM - Auxilixar nas atividades de registro de logs da CrystolNetwork. = https://npmjs.com/crystolnetwork-log
 
 ! EXTENSION - https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd
 ! EXTENSION - https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt
@@ -90,4 +91,4 @@
 # UTILITIES - https://panleyent.com/crosslink/
 ```
 ## Créditos:
-ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a>
+ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a> <a href="https://github.com/joaootavios"><img src="https://img.shields.io/badge/joaootavios-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/joaootavios"/></a>
