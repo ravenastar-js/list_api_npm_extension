@@ -46,7 +46,8 @@
 + API - icons = https://img.icons8.com
 + API - Some Random Api = https://some-random-api.ml - https://some-random-api.ml/docs/welcome/introduction
 + API - A simple and easy to use AlexFlipnote API Wrapper = https://api.alexflipnote.dev - https://github.com/HarutoHiroki/alexflipnote.js
-+ API - Endpoint API for text generation, memes, utility, image generation! = https://popcat.xyz/api
++ API - Endpoint API for text generation, memes, utility, image generation! - https://popcat.xyz/api
++ API - A complete api for general use in discord. - https://api.alexflipnote.dev
 
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
@@ -86,8 +87,6 @@
 # UTILITIES - https://www.youtube.com/c/MWInformática
 # UTILITIES - https://discordtools.io/
 # UTILITIES - https://github.com/D09r/E-Books
-# UTILITIES - https://www.youtube.com/c/PedroRicardoR
-# UTILITIES - https://panleyent.com/crosslink/
 ```
 ## Créditos:
 ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a>
