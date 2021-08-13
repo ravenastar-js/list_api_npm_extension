@@ -47,6 +47,7 @@
 + API - Some Random Api = https://some-random-api.ml - https://some-random-api.ml/docs/welcome/introduction
 + API - A simple and easy to use AlexFlipnote API Wrapper = https://api.alexflipnote.dev - https://github.com/HarutoHiroki/alexflipnote.js
 + API - Endpoint API for text generation, memes, utility, image generation! = https://popcat.xyz/api
++ API - Pegar informações de um cep - https://viacep.com.br
 
 - NPM - imgur = https://www.npmjs.com/package/imgur
 - NPM - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
