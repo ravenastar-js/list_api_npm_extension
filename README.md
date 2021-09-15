@@ -105,6 +105,7 @@
 # UTILITIES - https://www.baboo.com.br/artigos/chave-de-ativacao-windows10/
 # UTILITIES - https://solyd.com.br
 # UTILITIES - https://ide.goorm.io/
+# UTILITIES - https://transfer.sh/
 ```
 ## Créditos:
 ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/sprayx"><img src="https://img.shields.io/badge/sprayx-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/sprayx"/></a> <a href="https://github.com/joaootavios"><img src="https://img.shields.io/badge/joaootavios-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/joaootavios"/></a>
