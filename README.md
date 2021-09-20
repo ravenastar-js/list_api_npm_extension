@@ -71,6 +71,7 @@
 ! https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
 ! https://addons.opera.com/pt-br/extensions/details/what-is-my-ip-address/
 ! https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=pt-BR
+! https://chrome.google.com/webstore/detail/wot-website-security-brow/bhmmomiinigofkjcapegjjndpbikblnp?hl=pt-BR
 
 @@ https://choosealicense.com/licenses/ @@
 @@ http://constletvar.com/ @@
