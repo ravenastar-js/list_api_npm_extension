@@ -47,6 +47,7 @@
 + Some Random Api = https://some-random-api.ml - https://some-random-api.ml/docs/welcome/introduction
 + A simple and easy to use AlexFlipnote API Wrapper = https://api.alexflipnote.dev - https://github.com/HarutoHiroki/alexflipnote.js
 + Endpoint API for text generation, memes, utility, image generation! = https://popcat.xyz/api
++ Our APIs allow you to submit URLs for scanning and retrieve the results once the scan has finished = https://urlscan.io/docs/api/
 
 - imgur = https://www.npmjs.com/package/imgur
 - sourcebin = https://www.npmjs.com/package/sourcebin-wrapper
@@ -73,6 +74,7 @@
 ! https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=pt-BR
 ! https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno
 
+@@ https://urlscan.io @@
 @@ https://choosealicense.com/licenses/ @@
 @@ http://constletvar.com/ @@
 @@ https://talosintelligence.com/ @@
