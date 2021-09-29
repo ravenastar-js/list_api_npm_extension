@@ -74,6 +74,7 @@
 ! https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=pt-BR
 ! https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno
 
+@@ https://stripe.com/br @@
 @@ https://regexr.com @@
 @@ https://urlscan.io @@
 @@ https://choosealicense.com/licenses/ @@
