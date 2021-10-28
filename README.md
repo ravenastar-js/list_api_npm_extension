@@ -59,7 +59,6 @@
 - A light weight native JavaScript implementation of GeoIP API from MaxMind = https://www.npmjs.com/package/geoip-lite
 - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
 - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
-- Auxilixar nas atividades de registro de logs em geral. = https://npmjs.com/crystolnetwork-log
 
 ! https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd
 ! https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt
@@ -114,4 +113,4 @@
 @@ https://transfer.sh/ @@
 ```
 ## Créditos:
-ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>ﾠ<a href="https://github.com/joaootavios"><img src="https://img.shields.io/badge/joaootavios-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/joaootavios"/></a>
+ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>
