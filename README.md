@@ -75,6 +75,7 @@
 ! https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno
 
 @@ https://stripe.com/br @@
+@@ https://paste.ec @@
 @@ https://regexr.com @@
 @@ https://urlscan.io @@
 @@ https://choosealicense.com/licenses/ @@
