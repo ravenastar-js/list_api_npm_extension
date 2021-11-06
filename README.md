@@ -76,6 +76,7 @@
 ! https://chrome.google.com/webstore/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee
 
 @@ https://stripe.com/br @@
+@@ https://sitecheck.sucuri.net @@
 @@ https://paste.ec @@
 @@ https://regexr.com @@
 @@ https://urlscan.io @@
