@@ -78,7 +78,6 @@
 ! https://addons.opera.com/en/extensions/details/tweakpass-free-password-manager/
 ! https://addons.opera.com/pt-br/extensions/details/bitwarden-free-password-manager/
 ! https://chrome.google.com/webstore/detail/kaspersky-password-manage/dhnkblpjbkfklfloegejegedcafpliaa/related?hl=pt-br
-! https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion?hl=pt-br
 
 @@ https://stripe.com/br @@
 @@ https://paste.ec @@
