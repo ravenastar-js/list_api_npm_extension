@@ -75,6 +75,10 @@
 ! https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh/related?hl=pt-BR
 ! https://chrome.google.com/webstore/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee
 ! https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+! https://addons.opera.com/en/extensions/details/tweakpass-free-password-manager/
+! https://addons.opera.com/pt-br/extensions/details/bitwarden-free-password-manager/
+! https://chrome.google.com/webstore/detail/kaspersky-password-manage/dhnkblpjbkfklfloegejegedcafpliaa/related?hl=pt-br
+! https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion?hl=pt-br
 
 @@ https://stripe.com/br @@
 @@ https://paste.ec @@
