@@ -120,4 +120,4 @@
 @@ https://transfer.sh/ @@
 ```
 ## Créditos:
-ﾠ<a href="https://github.com/StarlineBR"><img src="https://img.shields.io/badge/StarlineBR-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/StarlineBR"/></a>
+ﾠ<a href="https://github.com/ravenastar-js"><img src="https://img.shields.io/badge/ravenastar&#8208js-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/ravenastar-js"/></a>
