@@ -60,6 +60,7 @@
 - Google Translate API = https://www.npmjs.com/package/@iamtraction/google-translate
 - Urlscan.io API Wrapper = https://www.npmjs.com/package/urlscan-api
 
+! https://ublockorigin.com/
 ! https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd
 ! https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt
 ! https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
@@ -71,11 +72,9 @@
 ! https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
 ! https://addons.opera.com/pt-br/extensions/details/what-is-my-ip-address/
 ! https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=pt-BR
-! https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno
 ! https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh/related?hl=pt-BR
 ! https://chrome.google.com/webstore/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee
 ! https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
-! https://addons.opera.com/en/extensions/details/tweakpass-free-password-manager/
 ! https://addons.opera.com/pt-br/extensions/details/bitwarden-free-password-manager/
 ! https://chrome.google.com/webstore/detail/kaspersky-password-manage/dhnkblpjbkfklfloegejegedcafpliaa/related?hl=pt-br
 ! https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=en
